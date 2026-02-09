@@ -1,6 +1,6 @@
 # aarons_cook_book
 
-A new Flutter project.
+A new Flutter project. A simple mobile app for recipies.
 
 ## Getting Started
 
